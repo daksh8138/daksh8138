@@ -1,19 +1,16 @@
 ## Hi, I’m Daksh 👋
 
 🎓 IT undergraduate learning software development step by step.  
-🐧 Linux user, interested in understanding how things work under the hood.
+Interested in understanding how things work under the hood.
 
 ### 🌱 Currently Learning
-- Web development (HTML → CSS → JavaScript)
-- Git & GitHub basics
+- Development
+- ML, DL
 
 ### 🛠 Tools I Use
 - Linux
 - Git & GitHub
-- VS Code
 
-### 📌 About this profile
-I’m documenting my learning journey by building small projects and improving them over time.
 
 <!--
 **daksh8138/daksh8138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
