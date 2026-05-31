@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Daksh%20Javaria&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20|%20Full%20Stack%20%7C%20DSA%20Grind%20%7C%20Linux&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+<img width="1920" height="1080" alt="GitHub_Banner" src="https://github.com/user-attachments/assets/f9602ebe-e6aa-45ba-af45-ff2e21ca88d7" />
+
 
 <h3 align="center">Hey, I'm Daksh 👋</h3>
 
