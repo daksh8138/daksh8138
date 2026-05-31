@@ -52,3 +52,9 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 
 
+
+<p align="center">
+  <i>"Still learning. Still building."</i>
+</p>
+
+
