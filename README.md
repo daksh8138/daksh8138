@@ -54,13 +54,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/daksh8138">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh8138&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh8138&theme=tokyonight" />
   </a>
   <a href="https://github.com/daksh8138">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh8138&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh8138&hide_border=true&card_width=338&theme=tokyonight" />
   </a>
   <a href="https://github.com/daksh8138">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daksh8138&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daksh8138&theme=tokyonight" />
   </a>
 </details>
 
