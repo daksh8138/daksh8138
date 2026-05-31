@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Adaptive+Developer;Cloud+Learner;Linux+Explorer" />
+</p>
+
+
+<p align="center">
   <a href="https://x.com/JavariaDaksh">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
@@ -49,6 +54,5 @@
 ### OS
 
 <p align="left">
-  ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-  ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+  <img src=""/>
 </p> 
