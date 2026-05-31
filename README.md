@@ -51,7 +51,16 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 
+<details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daksh8138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh8138&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+</details>
 
 <h2 align="center">Visitor's Count</h2>
 
