@@ -54,6 +54,11 @@
 <details>
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daksh8138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh8138&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
