@@ -52,17 +52,16 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 
 <details>
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daksh8138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daksh8138&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-
+  <a href="https://github.com/daksh8138">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh8138&theme=transparent" />
+  </a>
+  <a href="https://github.com/daksh8138">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh8138&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/daksh8138">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daksh8138&theme=transparent" />
+  </a>
 </details>
 
 <h2 align="center">Visitor's Count</h2>
