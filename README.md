@@ -10,25 +10,18 @@
 
 <p align="center">
   <a href="https://x.com/JavariaDaksh">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/daksh-javaria-20970b336/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_HERE">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  <a href="https://leetcode.com/daksh8138">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
+  </a>
+  <a href="https://www.codechef.com/users/ws_sanji">
+    <img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
-
----
-
-### 🚀 What I'm currently doing
-
-- 🌐 Learning **Full Stack Web Dev** — JS → Node.js → React → Next.js
-- 🧠 Solving **DSA problems** daily — building problem solving muscle
-- 🐧 Daily driving **Linux (WSL2 Fedora)** — terminal is home
-- 📊 Previously explored **Power BI** and data analysis
-- 🎯 Goal: First internship + GSOC 2027
 
 ---
 
