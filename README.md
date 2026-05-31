@@ -4,8 +4,8 @@
 <h3 align="center">Hey, I'm Daksh 👋</h3>
 
 <p align="center">
-  CS undergrad on a mission — learning full stack web dev and DSA from the ground up.<br/>
-  Building in public every single day. Linux daily driver. Long way to go, loving the process.
+  CS undergrad <br/>
+  <i>Building in public every single day. Long way to go, loving the process.</i>
 </p>
 
 <p align="center">
