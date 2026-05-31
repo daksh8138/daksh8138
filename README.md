@@ -53,6 +53,13 @@
 
 
 
+<h2 align="center">Visitor's Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.deno.dev/daksh8138/count.svg" alt="Visitor Count" />
+</p>
+
+
 <p align="center">
   <i>"Still learning. Still building."</i>
 </p>
