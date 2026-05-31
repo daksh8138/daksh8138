@@ -62,18 +62,6 @@
 
 ---
 
-### 🗺️ Roadmap
-
-| Track | Status | Current | Target |
-|-------|--------|---------|--------|
-| 🌐 Web Dev | 🔥 Active | JavaScript — Async/Await | Full stack project deployed |
-| 🧠 DSA | 🔥 Active | Arrays & Strings | 150+ problems by Dec 2026 |
-| ☁️ DevOps | 🔜 Next | — | Docker + CI/CD |
-| 🤖 AI/ML | ⏸️ Paused | Conventional ML basics | Resume after web dev base |
-| 🌍 Open Source | 🔜 Oct 2026 | — | First PR merged |
-
----
-
 ### 👀 Visitor Count
 
 <div align="center">
