@@ -1,5 +1,5 @@
 <!-- BANNER: save your anime screenshot as assets/banner.png (wide crop, ~1500x500) -->
-<img src="assets/banner.png" alt="" width="100%" />
+<img src="assets/banner1.png" alt="" width="100%" />
 
 <samp>
 
