@@ -5,8 +5,6 @@
 
 **DaKsH** // dev // learning // building
 
-web apps, terminal setups, and the occasional AI experiment.
-learning in public. open to internships.
 
 <a href="https://x.com/JavariaDaksh"><strong>x</strong></a> | <a href="https://www.linkedin.com/in/daksh-javaria-20970b336/"><strong>linkedin</strong></a> | <a href="mailto:dakshjavaria2@gmail.com"><strong>email</strong></a> | <a href="https://leetcode.com/daksh8138"><strong>leetcode</strong></a> | <a href="https://www.codechef.com/users/ws_sanji"><strong>codechef</strong></a>
 
