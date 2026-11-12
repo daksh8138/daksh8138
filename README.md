@@ -27,12 +27,4 @@ other  power bi · prompt engineering · n8n / zapier / make
 
 **launchlock** — campaign approvals tied to immutable revisions. edit a budget or audience after sign-off and it needs review again. offline outbox, idempotency keys, stale approvals rejected with a 409. built with team Low Cortisol. [repo](https://github.com/daksh8138/REPLACE-ME)
 
-**now**
-
-contributing to open source. applying for full-stack internships.
-
-**also**
-
-gen-ai intern @ riidl somaiya (2025) · participated in paytm mal4 hackathon and sih 2026 · creative head @ smlra
-
 </samp>
