@@ -3,7 +3,7 @@
 
 <samp>
 
-**DaKsH** // full-stack dev // 2028
+**DaKsH** // dev // learning // building
 
 web apps, terminal setups, and the occasional AI experiment.
 learning in public. open to internships.
