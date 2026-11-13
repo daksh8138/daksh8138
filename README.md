@@ -6,12 +6,12 @@
 **DaKsH** // dev // learning // building
 
 
-<a href="https://x.com/JavariaDaksh"><strong>x</strong></a> | <a href="https://www.linkedin.com/in/daksh-javaria-20970b336/"><strong>linkedin</strong></a> | <a href="mailto:dakshjavaria2@gmail.com"><strong>email</strong></a> | <a href="https://leetcode.com/daksh8138"><strong>leetcode</strong></a> | <a href="https://www.codechef.com/users/ws_sanji"><strong>codechef</strong></a>
+<a href="https://x.com/JavariaDaksh"><strong>x</strong></a> | <a href="https://www.linkedin.com/in/daksh-javaria-20970b336/"><strong>linkedin</strong></a> | <a href="mailto:dakshjavaria2@gmail.com"><strong>email</strong></a>
 
 </samp>
 
 ```
-lang   js · ts · python · c/c++ · sql · bash
+lang   js · ts · python · c/c++ · bash
 web    next.js · react · node · express · mongodb · postgresql
 env    fedora · nvim · zsh · git
 ```
@@ -20,8 +20,6 @@ env    fedora · nvim · zsh · git
 
 **selected work**
 
-**[vinoa](https://github.com/daksh8138/vinoa)** — turns images into ascii art on an infinite, pannable canvas. export as png or svg. next.js · react · typescript · tailwind. [live](https://vinoa.vercel.app/)
-
-**launchlock** — campaign approvals tied to immutable revisions. edit a budget or audience after sign-off and it needs review again. offline outbox, idempotency keys, stale approvals rejected with a 409. built with team Low Cortisol. [repo](https://github.com/daksh8138/REPLACE-ME)
+**[vinoa](https://github.com/daksh8138/vinoa)** — turns images into ascii art on an infinite, pannable canvas. export as png or svg. next.js · react · typescript · tailwind. [live](https://vinoa.vercel.app/) 
 
 </samp>
