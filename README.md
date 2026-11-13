@@ -14,7 +14,7 @@
 lang   js · ts · python · c/c++ · sql · bash
 web    next.js · react · node · express · mongodb · postgresql
 env    fedora · nvim · zsh · git
-other  power bi · prompt engineering · n8n / zapier / make
+
 ```
 
 <samp>
