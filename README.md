@@ -13,6 +13,7 @@
 lang   js · ts · python · c/c++ · bash
 web    next.js · react · node · express · mongodb · postgresql
 env    fedora · nvim · zsh · git
+other  powerbi · postman
 ```
 
 <samp>
